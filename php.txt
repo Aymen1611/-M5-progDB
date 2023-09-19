@@ -1,0 +1,25 @@
+show vieuw: de mogelijkheid om de gegevens van een database tabel tezien
+create : hiermee heb je de mogelijkheid om nieuwe databaseobjecten temaken zolas tabellen enz
+index :index word gebruikt om querys teverbeteren en snel toegang tebieden tot rijen in een tabel
+create view: is een manier om een opgeslagen queryresultaat als een virtuele tabel te definiëren. Hier is een algemeen stappenplan voor het maken van een weergave:
+
+
+
+wanneer heb je dit nodig?
+
+show vieuw: als je database gegvens wilt zien
+create: Gebruik dit om een nieuwe tabel in een database te maken wanneer je gegevens wilt opslaan en beheren.
+ index : index word gebruikt om querys teverbeteren
+create view:  je hebt dit nodig wanneer je een virtuele tabel wilt maken die gebaseerd is op een opgeslagen queryresultaat. Weergaven worden vaak gebruikt om complexe query's te vereenvoudigen en leesbaarheid te verbeteren.
+
+
+
+hoe kan hacker er iets mee?
+
+show vieuw: om informatie van een database tezien en tekunnen stelen
+create: om met een spambot veel dingen tecreaten
+
+
+ index :om queurs kapot temaken
+
+create view: met spambot dingen maken
